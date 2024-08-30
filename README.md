@@ -2,9 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedora Web no Estúdio Gaia.
 - 🌱 Estou aprendendo programação e front-end na Alura e Oracle.
-- 👯 Estou procurando colaborar com Ddesigner e Devs!
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 👯 Estou procurando colaborar com Designer e Devs!
 
 ## 🖥️ Estou aprendendo
 
